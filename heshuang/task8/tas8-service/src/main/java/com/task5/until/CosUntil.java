@@ -16,11 +16,11 @@ import java.util.*;
 public class CosUntil {
 //    static ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
 //    static Cos cos = (Cos) applicationContext.getBean("cos");
-    static String bucketName = "zx520-1257733330";
+    static String bucketName = "zx";
     static String secretId = "";
     static String secretKey = "";
     static String region = "ap-beijing";
-    static String appId = "1257733330";
+    static String appId = "";
     static String folder= "/img";
 
     public static COSClient getCosClient(){
