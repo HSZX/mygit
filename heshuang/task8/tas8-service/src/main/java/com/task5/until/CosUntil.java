@@ -17,8 +17,8 @@ public class CosUntil {
 //    static ApplicationContext applicationContext = new ClassPathXmlApplicationContext("applicationContext.xml");
 //    static Cos cos = (Cos) applicationContext.getBean("cos");
     static String bucketName = "zx520-1257733330";
-    static String secretId = "AKIDgEesujvlyyoRr5yuWv76sRnwsb7QfP5V";
-    static String secretKey = "JNBj4A0av0pOhlZAVaQ0KQGqAE3cw0oN";
+    static String secretId = "";
+    static String secretKey = "";
     static String region = "ap-beijing";
     static String appId = "1257733330";
     static String folder= "/img";
